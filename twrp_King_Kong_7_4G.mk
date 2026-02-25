@@ -15,7 +15,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/tcl/King_Kong_7_4G/device.mk)
 
 PRODUCT_DEVICE := King_Kong_7_4G
-PRODUCT_NAME := omni_King_Kong_7_4G
+PRODUCT_NAME := twrp_King_Kong_7_4G
 PRODUCT_BRAND := Alcatel
 PRODUCT_MODEL := 9013X_EEA
 PRODUCT_MANUFACTURER := tcl

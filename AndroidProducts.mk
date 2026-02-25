@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_King_Kong_7_4G.mk
+    $(LOCAL_DIR)/twrp_King_Kong_7_4G.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_King_Kong_7_4G-user \
-    omni_King_Kong_7_4G-userdebug \
-    omni_King_Kong_7_4G-eng
+    twrp_King_Kong_7_4G-user \
+    twrp_King_Kong_7_4G-userdebug \
+    twrp_King_Kong_7_4G-eng
